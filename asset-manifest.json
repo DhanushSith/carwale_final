@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/carwale_final/static/css/main.c1e87982.css",
+    "main.js": "/carwale_final/static/js/main.d2ac84b4.js",
+    "static/js/787.87cb38de.chunk.js": "/carwale_final/static/js/787.87cb38de.chunk.js",
+    "static/media/banner-Img.jpg": "/carwale_final/static/media/banner-Img.a16f027e7b1d1743a65c.jpg",
+    "static/media/get-final-price-banner.jpg": "/carwale_final/static/media/get-final-price-banner.a3c723f6f9865ac216e8.jpg",
+    "static/media/honda_4_side.jpg": "/carwale_final/static/media/honda_4_side.7efc91f3554dffad176c.jpg",
+    "static/media/honda_1_side.jpg": "/carwale_final/static/media/honda_1_side.68d39bafc28c02095ade.jpg",
+    "static/media/honda_2_side.jpg": "/carwale_final/static/media/honda_2_side.927759ffe1eaadc087da.jpg",
+    "static/media/honda_3_side.jpg": "/carwale_final/static/media/honda_3_side.267795a0a7d1fff33df5.jpg",
+    "static/media/skoda1681982956420.jpg": "/carwale_final/static/media/skoda1681982956420.4753d6b418c39896ee73.jpg",
+    "static/media/download.png": "/carwale_final/static/media/download.616d0ddec02bc66795a8.png",
+    "static/media/bike.png": "/carwale_final/static/media/bike.be62bd7bb7c7a4da7cbd.png",
+    "static/media/download (1).png": "/carwale_final/static/media/download (1).f872e5bef62b94f2c036.png",
+    "static/media/download (2).png": "/carwale_final/static/media/download (2).fe96569291bec308e573.png",
+    "static/media/land-rover1647236056893.jpg": "/carwale_final/static/media/land-rover1647236056893.8248cdfd728f01c82a9c.jpg",
+    "static/media/logo.svg": "/carwale_final/static/media/logo.0ff7328b9ff2e0d4e8efd6402c346d0b.svg",
+    "static/media/slick.svg": "/carwale_final/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/carwale_final/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/carwale_final/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/carwale_final/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/carwale_final/index.html",
+    "main.c1e87982.css.map": "/carwale_final/static/css/main.c1e87982.css.map",
+    "main.d2ac84b4.js.map": "/carwale_final/static/js/main.d2ac84b4.js.map",
+    "787.87cb38de.chunk.js.map": "/carwale_final/static/js/787.87cb38de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e87982.css",
+    "static/js/main.d2ac84b4.js"
+  ]
+}
